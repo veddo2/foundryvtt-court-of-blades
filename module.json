@@ -26,13 +26,6 @@
             "type": "system"
         }
     ],
-    "relationships": {
-        "systems": [
-            {
-                "type": "system"
-            }
-        ]
-    },
     "languages": [
         {
             "lang": "en",
