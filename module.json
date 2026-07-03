@@ -5,7 +5,7 @@
     "description": "",
     "version": "1",
     "url": "https://github.com/veddo2/foundryvtt-court-of-blades",
-    "manifest": "https://raw.githubusercontent.com/veddo2/foundryvtt-court-of-blades/refs/heads/development/module.json",
+    "manifest": "https://github.com/veddo2/foundryvtt-court-of-blades/releases/latest/download/module.json",
     "download": "replaced automatically",
     "manifestPlusVersion": "1.2.0",
     "minimumCoreVersion": "10",
