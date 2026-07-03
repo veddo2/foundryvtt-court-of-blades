@@ -29,7 +29,6 @@
     "relationships": {
         "systems": [
             {
-                "id": "blades-in-the-dark",
                 "type": "system"
             }
         ]
